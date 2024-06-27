@@ -1,0 +1,48 @@
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-06-16 22:21:15,503 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:21:20,913 MSG: log.py:log_response:241 Not Found: /m/default/media/images/askbot-logo.svg
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:21:20,916 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.335536fb9829.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:21:20,916 MSG: log.py:log_response:241 Not Found: /m/default/media/jslib/modernizr.custom.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:21:20,919 MSG: log.py:log_response:241 Not Found: /m/CACHE/css/output.59da6d38b4bc.css
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:21:21,002 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.bc96862a00bb.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:21:21,498 MSG: log.py:log_response:241 Not Found: /m/default/media/images/favicon.gif
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:36,934 MSG: log.py:log_response:241 Not Found: /m/default/media/jslib/modernizr.custom.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:36,934 MSG: log.py:log_response:241 Not Found: /m/CACHE/css/output.59da6d38b4bc.css
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:36,936 MSG: log.py:log_response:241 Not Found: /m/default/media/images/askbot-logo.svg
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:36,938 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.335536fb9829.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:37,055 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.fba46cb0453c.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:37,056 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.ec9fbfc47c4e.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:50,974 MSG: log.py:log_response:241 Not Found: /m/default/media/images/nophoto.png
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:50,975 MSG: log.py:log_response:241 Not Found: /m/default/media/jslib/modernizr.custom.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:50,977 MSG: log.py:log_response:241 Not Found: /m/CACHE/css/output.59da6d38b4bc.css
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:50,979 MSG: log.py:log_response:241 Not Found: /m/default/media/images/askbot-logo.svg
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:51,099 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.335536fb9829.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:51,101 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.98e767426c60.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:54,438 MSG: log.py:log_response:241 Not Found: /m/CACHE/css/output.59da6d38b4bc.css
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:54,439 MSG: log.py:log_response:241 Not Found: /m/default/media/jslib/modernizr.custom.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:54,440 MSG: log.py:log_response:241 Not Found: /m/default/media/images/askbot-logo.svg
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:54,443 MSG: log.py:log_response:241 Not Found: /m/default/media/images/nophoto.png
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:54,570 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.a4e500ce89af.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:54,573 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.99f8b44c33cb.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:30:54,573 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.335536fb9829.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:07,035 MSG: log.py:log_response:241 Not Found: /m/default/media/jslib/modernizr.custom.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:07,038 MSG: log.py:log_response:241 Not Found: /m/default/media/images/nophoto.png
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:07,039 MSG: log.py:log_response:241 Not Found: /m/CACHE/css/output.59da6d38b4bc.css
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:07,040 MSG: log.py:log_response:241 Not Found: /m/default/media/images/askbot-logo.svg
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:07,156 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.335536fb9829.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:07,157 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.98e767426c60.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:08,063 MSG: log.py:log_response:241 Not Found: /m/default/media/images/askbot-logo.svg
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:08,069 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.335536fb9829.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:08,071 MSG: log.py:log_response:241 Not Found: /m/CACHE/css/output.59da6d38b4bc.css
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:08,074 MSG: log.py:log_response:241 Not Found: /m/default/media/jslib/modernizr.custom.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:09,755 MSG: log.py:log_response:241 Not Found: /m/default/media/images/askbot-logo.svg
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:09,757 MSG: log.py:log_response:241 Not Found: /m/CACHE/css/output.59da6d38b4bc.css
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:09,760 MSG: log.py:log_response:241 Not Found: /m/default/media/jslib/modernizr.custom.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-16 22:31:09,761 MSG: log.py:log_response:241 Not Found: /m/CACHE/js/output.335536fb9829.js
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-06-16 22:31:48,164 MSG: autoreload.py:trigger_reload:266 C:\Users\Admin\Desktop\intento1\askbot_site\askbot_site\settings.py changed, reloading.
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-06-16 22:32:04,543 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-06-17 08:42:41,468 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-06-18 16:51:44,339 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\askbot\utils\forms.py TIME: 2024-06-18 16:54:12,729 MSG: forms.py:get_next_url_from_jwt:23 Error decoding next_url jwt error="Invalid token type. Token must be a <class 'bytes'>" token="None"
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\log.py TIME: 2024-06-18 17:09:57,852 MSG: log.py:log_response:241 Not Found: /favicon.ico
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-06-26 00:22:14,716 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
+C:\Users\Admin\Desktop\intento1\.venv\lib\site-packages\django\utils\autoreload.py TIME: 2024-06-27 15:56:01,691 MSG: autoreload.py:run_with_reloader:668 Watching for file changes with StatReloader
