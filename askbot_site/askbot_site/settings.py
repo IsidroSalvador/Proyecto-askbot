@@ -18,7 +18,7 @@ INTERNAL_IPS = ('127.0.0.1',)
 ALLOWED_HOSTS  = ['*',] #change this for better security on your site
 
 ADMINS = (
-    ('isielproo@gmail.com', 'isielproo@gmail.com'),
+    ('isi@gmail.com', 'isi@gmail.com'),
 )
 MANAGERS = ADMINS
 
