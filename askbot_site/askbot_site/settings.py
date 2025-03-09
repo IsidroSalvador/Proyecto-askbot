@@ -12,10 +12,10 @@ ASKBOT_ROOT = os.path.abspath(os.path.dirname(askbot.__file__))
 PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 site.addsitedir(os.path.join(ASKBOT_ROOT, 'deps'))
 
-DEBUG = True   # set to True to enable debugging
+DEBUG = False #et to True to enable debugging(sirve para que no te roben datos :))
 TEMPLATE_DEBUG = False  # keep false when debugging jinja2 templates
 INTERNAL_IPS = ('127.0.0.1',)
-ALLOWED_HOSTS  = ['*',] #change this for better security on your site
+ALLOWED_HOSTS  = ['SinergiaQA.pythonanywhere.com','localhost','127.0.0.1'] #change this for better security on your site # SinergiaQA.pythonanywhere.com
 
 ADMINS = (
     ('isielproo@gmail.com', 'isielproo@gmail.com'),
@@ -25,10 +25,10 @@ MANAGERS = ADMINS
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'base1',                      # Or path to database file if using sqlite3.
-        'USER': 'root',                      # Not used with sqlite3.
-        'PASSWORD': '123456789',                  # Not used with sqlite3.
-        'HOST': 'localhost',
+        'NAME': 'SinergiaQA$default',                      # Or path to database file if using sqlite3.
+        'USER': 'SinergiaQA',          # Not used with sqlite3.
+        'PASSWORD': '@j.Pg.vr26Nb9FS',                  # Not used with sqlite3.
+        'HOST': 'SinergiaQA.mysql.pythonanywhere-services.com', #esera graciaaaas :3 yo creo que esta bien ese, vaap c:
         'PORT': '3306',
         'TEST': {
             'CHARSET': 'utf8', # Setting the character set and collation to utf-8
@@ -69,12 +69,12 @@ ASKBOT_LANGUAGE_MODE = 'single-lang' #'single-lang', 'url-lang', 'user-lang'
 
 # Absolute path to the directory that holds uploaded media
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = 'C:/Users/Admin/Desktop/intento1/askbot_site/upfiles'
+MEDIA_ROOT = '/home/SinergiaQA/Proyecto-askbot/askbot_site/upfiles' #/home/SinergiaQA/Proyecto-askbot/askbot_site/
 MEDIA_URL = '/upfiles/' # url to uploaded media. This is expected to start with a /
 STATIC_URL = '/m/'#this must be different from MEDIA_URL
 USE_LOCAL_FONTS = False
 
-STATIC_ROOT = 'C:/Users/Admin/Desktop/intento1/askbot_site/static'
+STATIC_ROOT = '/home/SinergiaQA/Proyecto-askbot/askbot_site/static'
 
 # URL prefix for admin media -- CSS, JavaScript and images. Make sure to use a
 # trailing slash.
@@ -208,7 +208,7 @@ AUTHENTICATION_BACKENDS = (
 
 #logging settings
 logging.basicConfig(
-    filename='C:/Users/Admin/Desktop/intento1/askbot_site/log/askbot_app.log',
+    filename='/home/SinergiaQA/Proyecto-askbot/askbot_site/log/askbot_app.log',
     level=logging.CRITICAL,
     format='%(pathname)s TIME: %(asctime)s MSG: %(filename)s:%(funcName)s:%(lineno)d %(message)s',
 )

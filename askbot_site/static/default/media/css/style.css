@@ -588,7 +588,7 @@ body:not(.with-tabs) main {
   --clr-neutral-30: hsla(var(--neutral-hue), var(--neutral-saturation), 30%, var(--debug-transparency));
   --clr-neutral-35: hsla(var(--neutral-hue), var(--neutral-saturation), 35%, var(--debug-transparency));
   --clr-neutral-40: hsla(var(--neutral-hue), var(--neutral-saturation), 40%, var(--debug-transparency));
-  --clr-neutral-50: hsla(var(--neutral-hue), var(--neutral-saturation), 50%, var(--debug-transparency));
+  --clr-neutral-50: #010d4b;
   --clr-neutral-60: hsla(var(--neutral-hue), var(--neutral-saturation), 60%, var(--debug-transparency));
   --clr-neutral-65: hsla(var(--neutral-hue), var(--neutral-saturation), 65%, var(--debug-transparency));
   --clr-neutral-70: hsla(var(--neutral-hue), var(--neutral-saturation), 70%, var(--debug-transparency));
@@ -600,9 +600,9 @@ body:not(.with-tabs) main {
   --clr-danger-dark: hsl(var(--danger-hue), 80%, 45%);
   --clr-danger: hsl(var(--danger-hue), 100%, 50%);
   --clr-highlight-pale-75: hsl(var(--highlight-hue), 16%, 75%, var(--debug-transparency));
-  --clr-highlight-pale-80: hsl(var(--highlight-hue), 15%, 80%, var(--debug-transparency));
-  --clr-highlight-pale-90: hsla(var(--highlight-hue), 15%, 90%, var(--debug-transparency));
-  --clr-highlight-pale-95: hsla(var(--highlight-hue), 15%, 95%, var(--debug-transparency));
+  --clr-highlight-pale-80: #ddd;
+  --clr-highlight-pale-90: white;
+  --clr-highlight-pale-95: white;
   --clr-highlight-pale-89-05: hsla(var(--highlight-hue), 15%, 89%, 0.5);
   --clr-highlight-100: hsla(var(--highlight-hue), 100%, 100%, var(--debug-transparency));
   --clr-highlight-90: hsla(var(--highlight-hue), 100%, 90%, var(--debug-transparency));
@@ -612,7 +612,7 @@ body:not(.with-tabs) main {
   --clr-blue-65: hsla(var(--ok-hue), 75%, 62%, var(--debug-transparency));
   --clr-blue-60: hsla(var(--ok-hue), 70%, 60%, var(--debug-transparency));
   --clr-blue-50: hsla(var(--ok-hue), 62%, 50%, var(--debug-transparency));
-  --clr-blue-45: hsla(var(--ok-hue), 62%, 45%, var(--debug-transparency));
+  --clr-blue-45: #dbac00;
   --clr-blue-40: hsla(var(--ok-hue), 75%, 40%, var(--debug-transparency));
   --clr-blue-30: hsla(var(--ok-hue), 80%, 30%, var(--debug-transparency));
   --clr-green-65: hsla(var(--green-hue), 75%, 62%, var(--debug-transparency));
@@ -641,7 +641,7 @@ body:not(.with-tabs) main {
 }
 
 :root {
-  --header-link-color: var(--clr-neutral-80);
+  --header-link-color: #ffffff;
   --header-link-color-hover: white;
   --system-messages-bg-color: var(--clr-highlight-70);
   --system-messages-border-color: var(--clr-highlight-90);
@@ -715,12 +715,12 @@ body:not(.with-tabs) main {
   --footer-bg: var(--forum-header-bg-color);
   --footer-padding: 1rem 0;
   --footer-row-margin: 0 0 0.25rem;
-  --link-color: var(--clr-blue-40);
+  --link-color: #0a6296;
   --link-hover-color: var(--clr-blue-30);
   --meta-nav-dropdown-breakpoint: 700px;
-  --ask-btn-bg-color: var(--clr-blue-65);
-  --ask-btn-hover-bg-color: var(--clr-blue-60);
-  --ask-btn-border-color: var(--clr-blue-50);
+  --ask-btn-bg-color: #ffd300;
+  --ask-btn-hover-bg-color: #f4ce17;
+  --ask-btn-border-color: #cab93e;
   --ask-btn-hover-border-color: var(--clr-blue-45);
   --ask-btn-font-size: var(--forum-header-font-size);
   --ask-btn-fg-color: var(--bg-color);
@@ -8167,7 +8167,7 @@ form.repost-comment-as-answer {
 }
 
 footer {
-  background: var(--footer-bg);
+  background: #f1f1f1;
   color: var(--footer-fg-color);
   padding: var(--footer-padding);
 }
@@ -8184,7 +8184,7 @@ footer a {
 .forum-header {
   --search-bar-height: calc(var(--forum-header-height) - 2 * var(--search-bar-vertical-margin));
   height: var(--forum-header-height);
-  background: var(--forum-header-bg-color);
+  background: #f1f1f1;
   position: sticky;
   top: 0;
   z-index: 2;
@@ -8575,7 +8575,7 @@ header.with-logo .user-nav > :first-child {
 }
 
 header {
-  background: var(--header-bg-color);
+  background: #0a263d;
   color: var(--header-link-color);
   height: var(--header-height);
 }
